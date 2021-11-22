@@ -1,0 +1,19 @@
+@prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix dc:   <http://purl.org/dc/terms/> .
+@prefix foaf:   <http://xmlns.com/foaf/0.1/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix prj:     <http://purl.org/stuff/project#> .
+@prefix x:     <http://purl.org/stuff/> .
+
+http://www.productontology.org/doc/Electronic_component
+
+https://lov.linkeddata.es/dataset/lov/vocabs/doap
+
+<http://hyperdata.it/projects/> ElectronicProject 
+
+Deliverable
+
+Documentation
