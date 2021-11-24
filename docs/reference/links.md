@@ -17,6 +17,12 @@
 https://github.com/espressif/esp-idf/issues/901
 [Introduction to the ESP-Prog Board](https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html)
 
+[Use the PlatformIO Debugger on the ESP32 Using an ESP-prog](https://www.hackster.io/brian-lough/use-the-platformio-debugger-on-the-esp32-using-an-esp-prog-f633b6)
+
+[PlatformIO Debugging](https://docs.platformio.org/en/latest/plus/debugging.html#piodebug)
+
+[Debugging options](https://docs.platformio.org/en/latest/projectconf/section_env_debug.html)
+
 ## ESP32
 
 https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
