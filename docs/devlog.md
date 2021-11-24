@@ -1,3 +1,13 @@
+**2021-11-24**
+
+Trying JTAG debug with ESP-prog
+
+undefined/home/danny/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-gdb: error while loading shared libraries: libncurses.so.5: cannot open shared object file: No such file or directory
+
+had to install
+
+The system seems to be talking to the esp-prog board/esp32, but it's not working...
+
 **2021-11-22**
 
 script for md link list -> turtle?

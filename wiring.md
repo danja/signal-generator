@@ -69,3 +69,10 @@ MTDI/GPIO12 TDI
 MTCK/GPIO13 TMS
 GND         GND
 ```
+```
+GPIO12 — TDI
+GPIO15 — TDO
+GPIO13 — TCK
+GPIO14 — TMS
+The reset pin (TRST) is not fully supported by OpenOCD. Fortunately, it’s optional.
+```
